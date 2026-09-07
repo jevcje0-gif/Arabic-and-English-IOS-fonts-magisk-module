@@ -213,10 +213,14 @@ If you enjoy this module, consider giving the repository a ⭐ on GitHub. It hel
 
 # 📄 License
 
-This repository contains the Magisk module configuration and packaging.
+**All Rights Reserved.**
 
-Please ensure that you have the legal right to use and distribute any included font files. The fonts themselves may be subject to their own licenses and are **not** covered by this repository unless explicitly stated.
+This project is provided for personal use only.
 
----
+You may **not** copy, modify, redistribute, re-upload, mirror, or use any part of this repository, including its files, structure, or content, without prior written permission from the author.
 
-Made with ❤️ for Android users who love the clean typography of iOS.
+The included font files remain the property of their respective owners and are subject to their own licenses. This repository does not grant any rights to those fonts.
+
+Unauthorized distribution or use of this project, in whole or in part, is prohibited.
+
+© 2026 All Rights Reserved.
